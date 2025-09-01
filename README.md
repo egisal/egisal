@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi 🦖
 
+###Im newbie, just starting to learn HTML, CSS, and JavaScript.
 <!--
 **egisal/egisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
